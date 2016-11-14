@@ -1,0 +1,348 @@
+@import url("init.less");
+@import url("adaptation.less");
+
+@import url("http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100");
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+
+body {
+    font-family: "Roboto", helvetica, arial, sans-serif;
+    font-size: 11px;
+    font-weight: 800;
+    overflow: hidden;
+    text-rendering: geometricPrecision;
+    margin-top: 20px;
+    margin-left: 35px;
+    animation: fadein 0.3s;
+    user-select: none;
+    cursor: default;
+}
+
+#some-kind-of-background {
+    background-color: none;
+    background-image: url("http://www.thedesignlove.com/wp-content/uploads/2013/02/web-pattern1.jpg");
+    display: block;
+    height: 680px;
+    margin-top: -886px;
+    margin-left: 595px;
+    opacity: 0.11;
+    position: absolute;
+    width: @screenWidth * 0.95px;
+    z-index: 0;
+}
+
+.table-fill {
+    font-family: 'Fira Sans', sans-serif !important;
+    animation: float 5s infinite;
+    background: white;
+    border-bottom: 2px solid @clTableRowLastBottomBorder;
+    border-collapse: collapse;
+    height: 300px;
+    margin-left: 594px;
+    margin-top: -506px;
+    max-width: 1208px;
+    padding: 5px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    th {
+        letter-spacing: 1px;
+        background: @clDashboardBackground;
+        border-bottom: 4px solid @clTableBorder;
+        border-right: 1px solid @clTableBorder;
+        font-size: 22px;
+        font-weight: 800;
+        padding: 10px;
+        text-align: center;
+        text-align: center;
+        opacity: 1 !important;
+        vertical-align: middle;
+        &:last-child {
+            border-right: none;
+        }
+    }
+    tr {
+        border-bottom: 1px solid @clTableBorder;
+        border-top: 1px solid @clTableBorder;
+        color: @clTableRowFont;
+        font-size: 13px;
+        font-weight: normal;
+        opacity: 1;
+        &:first-child {
+            border-top: none;
+        }
+        &:last-child {
+            border-bottom: none;
+        }
+        &:nth-child(odd) {
+            td {
+                background: @clTableRowEvenBackground;
+            }
+            hover {
+                td {
+                    background: @clTableRowHoverBackground;
+                }
+            }
+        }
+    }
+    td {
+        background: @clDashboardBackground;
+        border-right: 1px solid @clTableBorder;
+        font-size: 24px;
+        font-weight: 300;
+        padding: 0px;
+        opacity: 0.9;
+        text-align: center;
+        text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+        vertical-align: middle;
+        &:last-child {
+            border-right: 0px;
+        }
+    }
+}
+
+g {
+    .tick>text {
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+}
+
+.blink {
+    background-color: @clPanelFhrBackground !important;
+    border: 0px;
+    color: @clDashboardBackground !important;
+}
+
+.key-figures div {
+    -moz-box-shadow: -2px -2px 28px -1px rgba(0, 0, 0, 0.35);
+    -moz-transition: background 10s;
+    -ms-transition: background 10s;
+    -o-transition: background 10s;
+    -webkit-box-shadow: -2px -2px 28px -1px rgba(0, 0, 0, 0.35);
+    -webkit-transition: background 10s;
+    box-shadow: 0px 0px 5px -2px rgba(0, 0, 0, 0.35);
+    display: block;
+    vertical-align: center;
+    z-index: 1;
+}
+
+.main-panel div {
+    -webkit-animation-duration: 0.1s;
+    -webkit-animation-delay: 0s;
+    -moz-animation-duration: 0.1s;
+    -moz-animation-delay: 0s;
+    opacity: 0.9;
+    margin-top: 5px;
+}
+
+#unisigned {
+    background: @clPanelUnissignedBackground;
+    color: @clPanelUnissignedFont;
+    font-size: 185pt;
+    height: 300px;
+    letter-spacing: -40px;
+    margin-top: -875px;
+    margin-left: 591px;
+    position: absolute;
+    text-align: center;
+    width: 400px;
+    text {
+        letter-spacing: -10px;
+        margin-left: -29px;
+        text-shadow: 0px 1px 0px @clTableRowEvenBackground;
+    }
+}
+
+#fhr-timer {
+    background: @clPanelUnissignedBackground;
+    color: @clPanelUnissignedFont;
+    font-size: 185pt;
+    height: 300px;
+    letter-spacing: -55px;
+    margin-top: -875px;
+    margin-left: 996px;
+    position: absolute;
+    text-align: center;
+    width: @screenWidth * 0.2083px;
+    text {
+        letter-spacing: -10px;
+        margin-left: 0px;
+        text-shadow: 0px 1px 0px @clTableRowEvenBackground;
+    }
+}
+
+#backlog {
+    background: @clPanelBacklogBackground;
+    color: @clPanelUnissignedFont;
+    font-size: 185pt;
+    height: 300px;
+    letter-spacing: -40px;
+    margin-top: -875px;
+    margin-left: 1401px;
+    position: absolute;
+    text-align: center;
+    width: 400px;
+    text {
+        letter-spacing: -10px;
+        margin-left: 0px;
+        text-shadow: 0px 1px 0px @clTableRowEvenBackground;
+    }
+}
+
+#fhr-timer_caption {
+    font-size: 13px;
+    font-weight: normal;
+    letter-spacing: 2px !important;
+    margin: 260px;
+    position: absolute;
+    right: -250px;
+    width: 374px;
+}
+
+.key-figures-caption {
+    font-size: 13px;
+    font-weight: normal;
+    letter-spacing: 2px !important;
+    margin: 260px;
+    position: absolute;
+    right: -250px;
+    width: 374px;
+}
+
+.uv-caption {
+    position: absolute;
+    text {
+        font-family: Arial;
+        font-size: 14px;
+        font-weight: bold;
+        font-variant: small-caps;
+    }
+    mark {
+        background-color: @clTableCaptionFhrBackground;
+        padding: 2px;
+        color: @clTableCaptionFhrFont;
+        font-weight: normal;
+    }
+}
+
+cr-in-progress {
+    font-family: 'Fira Sans', sans-serif !important;
+}
+
+.uv-subcaption {
+    position: absolute;
+}
+
+.uv-subcaption-text {
+    font-family: Arial;
+    font-size: 9px;
+    font-weight: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    text-decoration: none;
+    cursor: default;
+}
+
+#total-stats-caption {
+    margin-left: 1100px;
+    margin-top: 7.5px;
+}
+
+#total-stats-subcaption {
+    margin-left: 985px;
+    margin-top: 24px;
+}
+
+#unassigned-ticket-caption {
+    margin-left: 1054px;
+    margin-top: 375px;
+}
+
+#unassigned-ticket-subcaption {
+    margin-left: 1038px;
+    top: 412px;
+}
+
+.cge-backlog rect {
+    fill: @clChartBacklogBackground !important;
+}
+
+.cge-resolved rect {
+    fill: @clChartResolvedPerWeekBackground !important;
+}
+
+.cge-in-progress rect {
+    fill: @clChartAssignedToPersonInProgressBackground !important;
+}
+
+.cge-future rect {
+    fill: @clChartAssignedToPersonFuturesBackground !important;
+}
+
+.cge-client-action rect {
+    fill: @clChartAssignedToPersonClientActionBackground !important;
+}
+
+.cge-vendor-reply rect {
+    fill: @clChartAssignedToPersonVendorReplyBackground !important;
+}
+
+.uv-chart-div:first-child:nth-child(2) {
+    display: none !important;
+}
+
+g .tick > text {
+    font-family: 'Fira Sans', sans-serif !important;
+    letter-spacing: 0.5px;
+}
+
+.footer-element {
+
+    margin: auto;
+}
+
+#kl-logo {
+    width: 350px;
+    display: none;
+}
+
+.cge-backlog text {
+    display: none;
+}
+
+#who-do-fhr {
+    color: @clTableWhoBeFhrFont;
+    font-size: 30px;
+}
+
+#pereodical-div {
+    margin-left: -30px;
+    z-index: 100;
+}
+
+
+div.inline { float:left; }
+.clearBoth { clear:both; }
+
+#roles-caption {
+    margin-left: -500px;
+    margin-top: 110px;
+}
+
+#roles-subcaption {
+    margin-left: -600px;
+    margin-top: 130px;
+}
+
+#ambilight {
+   display: none;
+}

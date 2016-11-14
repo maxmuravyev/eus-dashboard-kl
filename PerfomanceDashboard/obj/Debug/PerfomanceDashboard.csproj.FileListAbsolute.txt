@@ -1,0 +1,266 @@
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\ApplicationInsights.config
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\csc.exe
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\vbc.exe
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.dll.config
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.pdb
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Antlr3.Runtime.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\dotless.Core.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.SqlServer.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Web.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Newtonsoft.Json.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Owin.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Helpers.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Mvc.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Razor.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\WebGrease.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\dotless.Core.pdb
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Web.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Helpers.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Mvc.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Razor.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Antlr3.Runtime.pdb
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Newtonsoft.Json.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.SqlServer.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.pdb
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.dll
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.pdb
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.xml
+C:\Users\fir1st\Documents\Visual Studio 2015\Projects\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\ApplicationInsights.config
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\csc.exe
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\vbc.exe
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.dll.config
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.pdb
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Antlr3.Runtime.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\dotless.Core.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.SqlServer.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Web.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Newtonsoft.Json.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Owin.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Helpers.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Mvc.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Razor.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\WebGrease.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\dotless.Core.pdb
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Web.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.pdb
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Helpers.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Mvc.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Razor.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Antlr3.Runtime.pdb
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Newtonsoft.Json.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.SqlServer.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.dll
+C:\Users\muravyev_m\Desktop\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.pdb
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.pdb
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\ApplicationInsights.config
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\csc.exe
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\vbc.exe
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\VBCSCompiler.exe
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.dll.config
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\PerfomanceDashboard.pdb
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Antlr3.Runtime.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\dotless.Core.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.SqlServer.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Web.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Newtonsoft.Json.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Owin.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Helpers.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Mvc.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Razor.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Razor.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\WebGrease.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\dotless.Core.pdb
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.Web.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.pdb
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.Less.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Helpers.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Mvc.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Optimization.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.Razor.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\System.Web.WebPages.Razor.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Antlr3.Runtime.pdb
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Newtonsoft.Json.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\EntityFramework.SqlServer.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\WebBackgrounder.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\Microsoft.Exchange.WebServices.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\HtmlAgilityPack.dll
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\HtmlAgilityPack.pdb
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\bin\HtmlAgilityPack.xml
+D:\Projects\PerfomanceDashboard\PerfomanceDashboard\obj\Debug\PerfomanceDashboard.csprojResolveAssemblyReference.cache

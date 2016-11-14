@@ -1,0 +1,215 @@
+﻿@{
+    Layout = "~/Views/Layout.cshtml";
+}
+
+<body>
+    <div id="dispatcher">
+        <g class="uv-caption" id="roles-caption">
+            <text class="uv-caption-text" y="25" x="1" text-anchor="middle">The Roles of the Week</text>
+        </g>
+        <g class="uv-subcaption" id="roles-subcaption">
+            <text class="uv-subcaption-text" y="-11.000000000000004" x="225" text-anchor="middle">Parsed from svc_toEusDashboard@kaspersky.com contains PEREODICAL in the subject</text>
+        </g>
+        <div id="uv-div" class="inline"></div>
+        <div id="ambilight"></div>
+        <div id="pereodical-div" class="inline"></div>
+        <br />
+        <br />
+        <br class="clearBoth" /><!-- you may or may not need this -->
+        <footer>
+            <br />
+            <br />
+            <img class="footer-element" id="kl-logo" width="200" src="~/Content/Kaspersky_Lab_logo.svg" />
+        </footer>
+    </div>
+
+    <script type="text/javascript" id="runscript">
+
+        var screenWidth = screen.width;
+        var screenHeight = screen.height;
+
+        var rInProgress = {};
+        var rFuture = {};
+        var rCA = {};
+        var rVR = {};
+
+        var emplNamesShort = [];
+        var inProgressDataSet = [];
+        var fDataSet = [];
+        var caDataSet = [];
+        var vrDataSet = [];
+
+        // → from back-end
+        var assignedWithStatusByPerson = @Html.Raw(Json.Encode(ViewData["assignedWithStatusByPerson"]));
+        var pereodical = @Html.Raw(Json.Encode(ViewData["pereodical"]));
+        var emplNamesShort = @Html.Raw(Json.Encode(ViewData["emplNamesShort"]));
+
+        // → service function for use animate-lib via jQuery
+        $.fn.extend({
+            animateCss: function (animationName) {
+                var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
+                this.addClass('animated ' + animationName).one(animationEnd, function () {
+                    $(this).removeClass('animated ' + animationName);
+                });
+            }
+        });
+
+        // → full screen and back to default screen with some kind of actions
+        $(document).keyup(function (e) {
+            if (e.which == 122) {
+                e.preventDefault();
+                if (window.innerHeight == screen.height) {
+                    $("body").css("margin-top", "33px");
+                    $("body").css("margin-left", "35px");
+                    $("#unassigned-ticket-subcaption").css("top", "428px");
+                    location.reload();
+                } else {
+                    location.reload();
+                }
+                return false;
+            }
+        });
+
+        // → display the kaspersky lab logo after F12 update
+        if (performance.navigation.type == 1) {
+            if (window.innerHeight == screen.height) {
+                if (screen.width > 1800) {
+                    $("#kl-logo").css("display", "block");
+                }
+            }
+        }
+
+        // → fill data for charts
+        // → assigned per user by status
+        try {
+            for (i = 0; i < emplNamesShort.length; i++) {
+                rInProgress[emplNamesShort[i]] = parseInt(assignedWithStatusByPerson[i][1]);
+                rFuture[emplNamesShort[i]] = parseInt(assignedWithStatusByPerson[i][2]);
+                rCA[emplNamesShort[i]] = parseInt(assignedWithStatusByPerson[i][3]);
+                rVR[emplNamesShort[i]] = parseInt(assignedWithStatusByPerson[i][4]);
+            }
+        }
+        catch (e) {
+            $("body").css("display", "none");
+            location.reload();
+        }
+
+        // → construct charts via dataset
+        for (i = 0; i < emplNamesShort.length; i++) {
+            inProgressDataSet.push({
+                name: emplNamesShort[i],
+                value: rInProgress[emplNamesShort[i]]
+            });
+            fDataSet.push({
+                name: emplNamesShort[i],
+                value: rFuture[emplNamesShort[i]]
+            });
+            caDataSet.push({
+                name: emplNamesShort[i],
+                value: rCA[emplNamesShort[i]]
+            });
+            vrDataSet.push({
+                name: emplNamesShort[i],
+                value: rVR[emplNamesShort[i]]
+            });
+        }
+
+        // apply created dataset
+        var AssignedWithStatusByPerson = {
+            categories: ['In Progress', 'Future', 'Client Action', 'Vendor Reply'],
+            dataset: {
+                'In Progress': inProgressDataSet,
+                'Future': fDataSet,
+                'Client Action': caDataSet,
+                'Vendor Reply': vrDataSet
+            }
+        }
+
+        // → create some kind of charts
+        var chart1 = uv.chart('StackedBar', AssignedWithStatusByPerson, {
+            axis: {
+                fontfamily: "Trebuchet MS"
+            },
+            meta: {
+                caption: 'Assigned Tickets to Each Person',
+                subcaption: 'Sorted by Amount of In Progress Tickets'
+            },
+            dimension: {
+                height: screenHeight * 0.7703703703703704,
+                width: (screenWidth * 0.834375) / 3
+            },
+            legend: {
+                fontsize: 11,
+                fontweight: 'normal'
+            },
+            graph: {
+                custompalette: ['#b64926', '#91aa9d', '#d1dbbd', '#dee2d5'],
+                orientation: 'Horizontal'
+            },
+            margin: {
+                left: 200,
+                top: screenHeight * 0.0462962962962963,
+                bottom: screenHeight * 0.0231481481481481,
+            },
+            scale: {
+                ordinality: '0.1'
+            },
+            label: {
+                fontsize: '24',
+                fontfamily: "'Fira Sans', sans-serif"
+            },
+            bar: {
+                fontsize: '27',
+                fontfamily: "'Fira Sans', sans-serif"
+            }
+        })
+
+        // → let's start
+        $(document).ready(function () {
+            $("body").fadeIn(5000);
+            $("body").css("display", "block"); // ← crutch
+            $("#ambilight").delay(3000).animateCss('fadeIn');
+            $("#pereodical-div").animateCss('bounceInRight');
+            $("#pereodical-div").html(pereodical);
+            $("#ambilight").html(pereodical);
+            $("#pereodical-div").find("td").css("border","0");
+            $("#pereodical-div").find("td").css("border-bottom","solid 1px #e6e6e6");
+            $("#pereodical-div").find("span").css("font-family","'Fira Sans', sans-serif");
+            $("#pereodical-div").find("span").css("letter-spacing","0.5px");
+            $("#pereodical-div").find("table").css("margin-top","150px");
+            $(".MsoNormal").find("td:nth-child(2)").css("font-size","24px");
+            $("tr td:nth-child(1)").css("opacity","0.8");
+
+            // → animate ambilight
+            setInterval(function() {
+                $("#ambilight").animate({opacity: "1"}, {duration: 10000});
+            }, 10000);
+
+            setInterval(function() {
+                $("#ambilight").animate({opacity: "0.3"}, {duration: 10000});
+            }, 10000);
+            
+            // → show KL logo in full screen
+            if( window.innerHeight == screen.height) {
+                $("#kl-logo").css("display", "block");
+            }
+
+            // → switch to chart 1
+            setInterval(function() {
+                $("body").fadeOut();
+                $("body").delay(1500).queue(function() {
+                    window.location = "/Home/Index";
+                    $("body").dequeue();
+                });
+            }, 120000);
+
+            // → force fill bar's label to white (because uvchart hasn't api)
+            setInterval(function() {
+                $(".uv-chart text").css("font-size","24px");
+                $(".cge-in-progress text").css("fill","#fff");
+            }, 100);
+        });
+    </script>
+</body>
+
+</html>
