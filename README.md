@@ -23,7 +23,7 @@ In <b>Global.asax</b> we using WebBackgrounder and check database every 60 secon
 
 
 <h3>To Do</h3>
-Please <a href="https://github.com/maxmuravyev/sd-dashboard-kl/wiki">use<a>.
+Please <a href="https://github.com/maxmuravyev/eus-dashboard-kl/wiki">use<a>.
 
 
 
