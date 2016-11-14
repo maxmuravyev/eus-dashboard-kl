@@ -13,7 +13,7 @@ namespace PerfomanceDashboard.Models
     {
         private static Dictionary<string, string> nameToShortName = new Dictionary<string, string>();
         
-public static bool actionTrigger = false;
+        public static bool actionTrigger = false;
 
         private static int unassignedTrigger = unassignedTicket;
         public static int backlog, unassignedTicket, lastFhr;
