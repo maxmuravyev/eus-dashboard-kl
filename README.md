@@ -1,6 +1,6 @@
 # eus-dashboard-kl
 
-Simple quick-and-dirty-copro-code two page internal dashboard for End User Support group of service desk with Kaspersky Lab.
+The simple 2-pages dashboard for End User Support group with Kaspersky Lab.
 
 <h4>Front</h4> 
 jQuery, LESS, <a href="https://github.com/Imaginea/uvCharts">uvChart</a>, <a href="https://github.com/daneden/animate.css/">Animate.css</a>, <a href="https://github.com/elrumordelaluz/csshake">CSShake</a>.
