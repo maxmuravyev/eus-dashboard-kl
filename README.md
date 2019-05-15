@@ -1,14 +1,11 @@
 # eus-dashboard-kl
 
-<h3>About</h3>
-Simple quick-and-dirty-copro-code-based two page internal bullshit's dashboard for End User Support group of service desk with Kaspersky Lab.
+Simple quick-and-dirty-copro-code two page internal dashboard for End User Support group of service desk with Kaspersky Lab.
 
 <h4>Front</h4> 
 jQuery, LESS, <a href="https://github.com/Imaginea/uvCharts">uvChart</a>, <a href="https://github.com/daneden/animate.css/">Animate.css</a>, <a href="https://github.com/elrumordelaluz/csshake">CSShake</a>.
 <h4>Back</h4> 
 C# includes <a href="https://github.com/OfficeDev/ews-managed-api">EWS</a> and <a href="https://github.com/NuGet/WebBackgrounder">WebBackgrounder</a> with ASP.NET MVC and MS-SQL.
-
---
 
 <h3>Recommended Resolution</h3>
 Full support for 1920x1080, 1680x1050.
