@@ -2,10 +2,8 @@
 
 The simple 2-pages dashboard for End User Support group with Kaspersky Lab.
 
-<h4>Front-End</h4> 
 jQuery, LESS, <a href="https://github.com/Imaginea/uvCharts">uvChart</a>, <a href="https://github.com/daneden/animate.css/">Animate.css</a>, <a href="https://github.com/elrumordelaluz/csshake">CSShake</a>.
 
-<h4>Back-End</h4> 
 C# includes <a href="https://github.com/OfficeDev/ews-managed-api">EWS</a> and <a href="https://github.com/NuGet/WebBackgrounder">WebBackgrounder</a> with ASP.NET MVC and MS-SQL.
 
 <h3>How it works?</h3>
